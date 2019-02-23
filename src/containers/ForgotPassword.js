@@ -37,7 +37,7 @@ export default class ForgotPassword extends Component {
       <Row className="form-parent">
         <Col xs sm={{ span: 4, offset: 4 }} className="form-container">
           <Col xs>
-            <h3 className="text-center heading">Sign in</h3>
+            <h3 className="text-center heading">Forgot Password</h3>
             <p className="text-center text-block text-secondary">
               Use below form to reset your password.
             </p>
