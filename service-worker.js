@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://graphicskart.github.io/react-bootstrap-auth-forms/precache-manifest.2fe83f19aa1428bffdc9148108812168.js"
+  "https://graphicskart.github.io/react-bootstrap-auth-forms/precache-manifest.fa9404c035ad74acc8cffec8ead3f428.js"
 );
 
 workbox.clientsClaim();
