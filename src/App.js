@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Login } from "./components";
 import "./App.css";
 import { Container } from "react-bootstrap";
 
