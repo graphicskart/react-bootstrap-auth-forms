@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-bootstrap-auth-forms/precache-manifest.655e622103f700e3f30d410fbd5d2353.js"
+  "https://graphicskart.github.io/react-bootstrap-auth-forms/precache-manifest.2fe83f19aa1428bffdc9148108812168.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-bootstrap-auth-forms/index.html", {
+workbox.routing.registerNavigationRoute("https://graphicskart.github.io/react-bootstrap-auth-forms/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

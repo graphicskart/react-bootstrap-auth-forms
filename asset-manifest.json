@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-bootstrap-auth-forms/static/css/main.ad43a208.chunk.css",
-  "main.js": "/react-bootstrap-auth-forms/static/js/main.d45ebe08.chunk.js",
-  "main.js.map": "/react-bootstrap-auth-forms/static/js/main.d45ebe08.chunk.js.map",
-  "runtime~main.js": "/react-bootstrap-auth-forms/static/js/runtime~main.27366d02.js",
-  "runtime~main.js.map": "/react-bootstrap-auth-forms/static/js/runtime~main.27366d02.js.map",
-  "static/js/2.f9a4cd0d.chunk.js": "/react-bootstrap-auth-forms/static/js/2.f9a4cd0d.chunk.js",
-  "static/js/2.f9a4cd0d.chunk.js.map": "/react-bootstrap-auth-forms/static/js/2.f9a4cd0d.chunk.js.map",
-  "index.html": "/react-bootstrap-auth-forms/index.html",
-  "precache-manifest.655e622103f700e3f30d410fbd5d2353.js": "/react-bootstrap-auth-forms/precache-manifest.655e622103f700e3f30d410fbd5d2353.js",
-  "service-worker.js": "/react-bootstrap-auth-forms/service-worker.js",
-  "static/css/main.ad43a208.chunk.css.map": "/react-bootstrap-auth-forms/static/css/main.ad43a208.chunk.css.map"
+  "main.css": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/css/main.ad43a208.chunk.css",
+  "main.js": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/main.40f16fad.chunk.js",
+  "main.js.map": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/main.40f16fad.chunk.js.map",
+  "runtime~main.js": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/runtime~main.255066cd.js",
+  "runtime~main.js.map": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/runtime~main.255066cd.js.map",
+  "static/js/2.f9a4cd0d.chunk.js": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/2.f9a4cd0d.chunk.js",
+  "static/js/2.f9a4cd0d.chunk.js.map": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/js/2.f9a4cd0d.chunk.js.map",
+  "index.html": "https://graphicskart.github.io/react-bootstrap-auth-forms/index.html",
+  "precache-manifest.2fe83f19aa1428bffdc9148108812168.js": "https://graphicskart.github.io/react-bootstrap-auth-forms/precache-manifest.2fe83f19aa1428bffdc9148108812168.js",
+  "service-worker.js": "https://graphicskart.github.io/react-bootstrap-auth-forms/service-worker.js",
+  "static/css/main.ad43a208.chunk.css.map": "https://graphicskart.github.io/react-bootstrap-auth-forms/static/css/main.ad43a208.chunk.css.map"
 }
